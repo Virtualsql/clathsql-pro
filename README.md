@@ -223,10 +223,6 @@ MIT License © 2024 **HJK-INC**. See [LICENSE](LICENSE) for full details.
 
 For enterprise support, integration consulting, or bulk deployment:
 
-📧 **Contact**: support@hjk-inc.com  
-🌐 **Website**: https://hjk-inc.com  
-💬 **Discord**: join.hjk-inc/community
-
 ---
 
 <div align="center">
